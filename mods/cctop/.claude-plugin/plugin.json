@@ -1,0 +1,9 @@
+{
+  "name": "cctop",
+  "description": "Панель в стиле btop: контекст, лимиты, стоимость, тулы, сабагенты",
+  "author": {
+    "name": "sirrorist-mods"
+  },
+  "repository": "https://github.com/sirrorist/lazanus",
+  "types": "./types/index.d.ts"
+}

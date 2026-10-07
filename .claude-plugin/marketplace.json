@@ -1,0 +1,14 @@
+{
+  "name": "lazanus",
+  "description": "Свои моды Claude Code: панели, звуки, игры",
+  "owner": {
+    "name": "sirrorist-mods"
+  },
+  "plugins": [
+    {
+      "name": "cctop",
+      "source": "./mods/cctop",
+      "description": "Панель в стиле btop: контекст, лимиты, стоимость, тулы, сабагенты"
+    }
+  ]
+}

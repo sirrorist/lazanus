@@ -1,0 +1,4 @@
+# Laid by the engine on every load, per Claude Code build
+mods/*/.claude-plugin/types/
+mods/*/tsconfig.json
+node_modules/
